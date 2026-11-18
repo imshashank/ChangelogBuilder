@@ -6,6 +6,8 @@
 [![Total Downloads](https://poser.pugx.org/imshashank/changelog-builder/downloads)](https://packagist.org/packages/imshashank/changelog-builder)
 [![License](https://poser.pugx.org/imshashank/changelog-builder/license)](https://packagist.org/packages/imshashank/changelog-builder)
 
+This PHP tool builds release notes from changelog entries submitted with pull requests. The package metadata credits [Shashank Agarwal](https://www.linkedin.com/in/shashankagarwal2/) as its author.
+
 ## Ideology
 
 We believe each PR must be accompanied by an entry to the CHANGELOG.md. An up-to-date changelog helps in tracking which changes were merged in a given release. It also gives contributers their fair share and allows them to track in which release were their changes merged to the repository.
